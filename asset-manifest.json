@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tasbih_app/static/css/main.c89974b3.css",
+    "main.js": "/Tasbih_app/static/js/main.a1ac94ac.js",
+    "index.html": "/Tasbih_app/index.html",
+    "main.c89974b3.css.map": "/Tasbih_app/static/css/main.c89974b3.css.map",
+    "main.a1ac94ac.js.map": "/Tasbih_app/static/js/main.a1ac94ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89974b3.css",
+    "static/js/main.a1ac94ac.js"
+  ]
+}
