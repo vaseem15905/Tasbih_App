@@ -34,6 +34,7 @@ const Content = () => {
     function decrement() {
         if (!taskCompleted && count > 0) {
             setCount(count - 1);
+            setCnt(cnt-1);
         }
     }
 
